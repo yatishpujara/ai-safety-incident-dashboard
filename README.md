@@ -1,4 +1,4 @@
-# AI Safety Incident Dashboard
+# AI Safety Incident Dashboard - https://ai-safety-incident-dashboard-nd.vercel.app/
 
 A React-based dashboard for tracking and managing AI safety incidents. This project was created as a frontend take-home assignment for HumanChain.
 
